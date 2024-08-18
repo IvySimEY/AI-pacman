@@ -1,0 +1,14 @@
+---
+:id: 252233585
+:submitters:
+- :name: Shey Mansur Bin Abdul Karim
+  :email: shey26@berkeley.edu
+- :name: Ivy Sim
+  :email: ivy_sim@berkeley.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-05-04 02:57:01.154051000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-05-03 19:57:01.154051000 Z
+:status: processed
+:score: 26.0
